@@ -1,8 +1,4 @@
 lalalallala
 asdasdadad
 asflalfaw
-git pull --no-rebase origin jaak
-git add .
-git commit -m "Lahendasin merge konflikti"
-git push -u origin jaak
-git pull --no-rebase origin jaak
+
