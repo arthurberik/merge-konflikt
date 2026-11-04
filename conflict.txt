@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 lalalallala
 asdasdadad
 bbbbbbbbbb
@@ -9,3 +10,9 @@ asdasdadad
 asfla
 kas seda on näha?
 >>>>>>> 8a230ab3746d2cf24fc9f8c51978f9f2567811ce
+=======
+lalalallala
+asdasdadad
+asflalfaw
+
+>>>>>>> 60996d828fc62dada1368d741336d9ea1aaf73b6
